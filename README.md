@@ -6,11 +6,11 @@ VRM ファイルを WebAR で表示するサンプルです。
 
 <img src="https://raw.githubusercontent.com/t-takasaka/vrm-three-ar/master/demo.gif">
 
-## サンプル
+## デモ
 
-ウェブカメラの付いたPCで[こちら](https://t-takasaka.github.io/vrm-three-ar/)にアクセスするか、スマートフォンで下記のQRコードにアクセスしてください。
+スマートフォンで下記のQRコードを読み取るか、ウェブカメラの付いたPCで[こちら](https://t-takasaka.github.io/vrm-three-ar/)にアクセスしてください。
 
-サンプルページの表示後、再度、QRコードにカメラを向けるとモデルが表示されます。
+ページの表示後、再度、QRコードにカメラを向けるとモデルが表示されます。
 
 （読み込みにちょっと時間がかかります）
 
