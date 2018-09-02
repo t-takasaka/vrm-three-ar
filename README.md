@@ -40,7 +40,7 @@ VRM ファイルを WebAR で表示するサンプルです。
 
 2. index.html をテキスト形式で開き、vrm ファイルへのパスを差し替えたものに変更します
 
-(assets/VRoid.vrm を上書きしただけであればパスの変更は不要です)
+　(assets/VRoid.vrm を上書きしただけであればパスの変更は不要です)
 
 3. オリジナルのモデルが表示されるようになります
 
@@ -54,7 +54,7 @@ VRM ファイルを WebAR で表示するサンプルです。
 
 4. index.html をテキスト形式で開き、patt ファイルへのパスを差し替えたものに変更します
 
-(assets/marker.patt を上書きしただけであればパスの変更は不要です)
+　(assets/marker.patt を上書きしただけであればパスの変更は不要です)
 
 5. 画面中央に表示されている黒枠に囲まれた画像がマーカーとして使えるようになります
 
@@ -64,11 +64,9 @@ QR コードの作成方法に指定はありません。
 
 ウェブ上にQRコード生成サービスが多数提供されていますので、お好きなものをお使いください。
 
-[artistic QR Code](https://github.com/sylnsfar/qrcode#common-qr-code) などを使うとイラストを含んだQRコードが生成できます。
+[artistic QR Code](https://github.com/sylnsfar/qrcode) などを使うとイラストを含んだQRコードが生成できます。
 
 ## 注意事項
-
-- マーカーのジェネレータは[こちら](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)にあります
 
 - モーションは[こちら](http://examples.claygl.xyz/examples/basicModelAnimation.html)のデータをお借りしています
 
