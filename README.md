@@ -71,3 +71,15 @@ QR コードの作成方法に指定はありません。
 - モーションは[こちら](http://examples.claygl.xyz/examples/basicModelAnimation.html)のデータをお借りしています
 
 - マーカー（QR）に対して垂直に立たせる場合はindex.htmlのstandフラグをtrueにしてください
+
+## ライセンス
+
+AR.js は MIT License で提供されています。
+[AR.js license](https://github.com/jeromeetienne/AR.js/blob/master/LICENSE.txt)
+
+ARToolKit.js は LGPLv3 で提供されています。
+[ARToolKit.js license](https://github.com/artoolkit/jsartoolkit5/blob/master/LICENSE.txt)
+
+QRコードは(株)デンソーウェーブの登録商標です。
+
+
