@@ -128,9 +128,9 @@
 
 				mixer = new THREE.AnimationMixer(vrm.scene);
 
-				//別のvrmからモーションを借用。本来は不要な処理
+				//別のgltfからモーションを借用。本来は不要な処理
 				//http://examples.claygl.xyz/examples/basicModelAnimation.html
-				let boneLoader = new THREE.VRMLoader();
+				let boneLoader = new THREE.GLTFLoader();
 				boneLoader.load("assets/SambaDancing.gltf", function(bone){
 					let animations = bone.animations;
 					if(animations && animations.length){
